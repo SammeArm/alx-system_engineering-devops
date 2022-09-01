@@ -1,1 +1,1 @@
-My 1st readme for shellbasic project
+My shell basics second chance
