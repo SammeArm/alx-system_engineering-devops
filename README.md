@@ -1,3 +1,1 @@
-My shell basics second chance 
-
-help
+i am a good person
